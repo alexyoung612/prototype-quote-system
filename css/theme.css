@@ -1,0 +1,6 @@
+.unit:nth-child(even) {
+    background: #DDD
+}
+.unit:nth-child(odd) {
+    background: #EEE
+}
